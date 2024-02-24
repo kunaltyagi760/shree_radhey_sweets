@@ -26,4 +26,4 @@ Welcome to Shree Radhey Sweets, a dynamic food website designed to showcase and 
 
 Feel free to contribute and make the Shree Radhey Sweets experience even better!
 
-**Happy Typing!**
+**Happy Coding!**
